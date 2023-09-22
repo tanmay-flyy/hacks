@@ -1,0 +1,11 @@
+RUBY HACKS
+
+Setup new rails server
+1)delete gemlock.file
+2)sudo bundle update
+3)bundle install
+
+jump to function definition
+1)instll ruby extention by peng lv
+2)go to vscode settings
+3) serch for ruby intellisense or rubyLocate
